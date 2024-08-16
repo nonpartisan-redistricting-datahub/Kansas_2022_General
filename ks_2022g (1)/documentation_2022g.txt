@@ -1,0 +1,55 @@
+Election results from Kansas Secretary of State (https://sos.ks.gov/elections/election-results.html).
+Precinct shapefiles primarily from the U.S. Census Bureau's 2020 Redistricting Data Program Phase 2 release.
+
+Shapefiles from counties in Butler, Douglas, Finney, Geary, Johnson, Leavenworth, Montgomery, Riley, Saline, and Sedgwick.
+
+Small changes made from 2020 VEST file based on precincts split by redistricting and geocoded voter registration file.
+
+Registration stats from the state voter file.
+
+REG_DEM - Number of registered Democrats
+REG_REP - Number of registered Republicans
+REG_UNA - Number of registered unaffiliated voters
+REG_LIB - Number of registered Libertarians
+REG_TOTAL - Total number of registered voters
+
+G22USSRMOR - Jerry Moran (Republican Party)
+G22USSDHOL - Mark R. Holland (Democratic Party)
+G22USSLGRA - David C. Graham (Libertarian Party)
+
+G22GOVDKEL - Laura Kelly (Democratic Party)
+G22GOVRSCH - Derek Schmidt (Republican Party)
+G22GOVIPYL - Dennis Pyle (Independent)
+G22GOVLCOR - Seth Cordell(Libertarian Party)
+
+G22SOSRSCH - Scott J. Schwab (Republican Party)
+G22SOSDREP - Jeanna Repass (Democratic Party)
+G22SOSLLAN - Cullene Lang (Libertarian Party)
+
+G22ATGRKOB - Kris Kobach (Republican Party)
+G22ATGDMAN - Chris Mann (Democratic Party)
+
+G22TRERJOH - Steven Johnson (Republican Party)
+G22TREDROG - Lynn W. Rogers (Democratic Party)
+G22TRELROB - Steve Roberts 
+
+G22INSRSCH - Vicki Schmidt (Republican Party)
+G22INSDCOR - Kiel Corkran (Democratic Party)
+
+G22SSC1YES - Melissa Taylor Standridge Retained 
+G22SSC1NO  - Melissa Taylor Standridge Not Retained
+
+G22SSC2YES - Dan Biles Retained 
+G22SSC2NO  - Dan Biles Not Retained
+
+G22SSC3YES - K.J. Wall Retained 
+G22SSC3NO  - K.J. Wall Not Retained
+
+G22SSC5YES - Marla Luckert Retained 
+G22SSC5NO  - Marla Luckert Not Retained
+
+G22SSC6YES - Evelyn Z. Wilson Retained 
+G22SSC6NO  - Evelyn Z. Wilson Not Retained
+
+G22SSC7YES - Caleb Stegall Retained 
+G22SSC7NO  - Caleb Stegall Not Retained
